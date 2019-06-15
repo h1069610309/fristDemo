@@ -1,2 +1,0 @@
-# fristDemo
-this is test
